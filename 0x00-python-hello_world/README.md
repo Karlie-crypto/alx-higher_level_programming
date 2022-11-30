@@ -1,7 +1,8 @@
 0x00. Python - Hello, World
-Author's Details
 
-Name: Karlie Moyo.
+Author's Details:
+
+Name: Karlie Moyo
 
 Email: karlieemoyo@gmail.com
 
