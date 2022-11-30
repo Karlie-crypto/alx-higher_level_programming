@@ -6,7 +6,8 @@ Name: Karlie Moyo.
 Email: karlieemoyo@gmail.com
 
 Tel: +27844775229
-Requirements
+Requirements:
+
 Python Scripts
 
     Allowed editors: vi, vim, emacs.
@@ -59,4 +60,4 @@ Learn about the Zen of Python. How to use the Python interpreter. How to print t
 
 Collaborate
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com.
+To collaborate, reach me through my email address karlieemoyo@gmail.com
