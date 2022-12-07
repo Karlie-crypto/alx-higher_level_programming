@@ -9,6 +9,7 @@ Email: karlieemoyo@gmail.com
 Tel: +27844775229
 
 DESCRIPTION:
+
 What are sets and how to use them
 What are the most common methods of set and how to use them
 When to use sets versus lists
