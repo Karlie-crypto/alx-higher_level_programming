@@ -1,12 +1,10 @@
 0x07. Python - Test-driven development
-
 Name: Karlie Moyo
 
 Email: karlieemoyo@gmail.com
 
 Tel: +27844775229
 
-Requirements
 Python Scripts
 
     Allowed editors: vi, vim, emacs.
