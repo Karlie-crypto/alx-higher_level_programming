@@ -2,11 +2,11 @@
 **0x0C. Python - Almost a circle**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
+Name: Karlie Moyo
 
-Email: *wendymunyasi@gmail.com*
+Email: *karlieemoyo@gmail.com*
 
-Tel: *+254707240068.*
+Tel: *+27844775229*
 
 ##  Requirements
 
@@ -63,4 +63,4 @@ How to handle named arguments in a function.
 
 ## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+To collaborate, reach me through my email address karlieemoyo@gmail.com
