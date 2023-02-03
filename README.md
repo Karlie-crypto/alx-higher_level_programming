@@ -1,6 +1,6 @@
 
 # ALX HIGHER LEVEL PROGRAMMING
-<https://github.com/Karlie-crypto/alx-higher_level_programming/blob/master/undraw_coding_re_iv62.svg />
+<img alt="coding" width="784" height="350" src="https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png" />
 
 This repository contains programs created for the _**ALX Software Engineering Higher Level** Programing._ Now on Higher Level Programming, Your girl here is ready for collaborations. Hey you! Come let's do hard things. The following is a specific list of projects and what I have learnt so far:
 
