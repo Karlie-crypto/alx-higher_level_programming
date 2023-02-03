@@ -1,8 +1,6 @@
 
 # ALX HIGHER LEVEL PROGRAMMING
-<div id="header" align="center">
-  <img src="https://github.com/Karlie-crypto/alx-higher_level_programming/blob/master/72Us.gif.gif" width="250"/>
-</div>
+<img src="https://github.com/Karlie/Moyo/blob/master/72Us.gif" width="850" height="500" />
 
 This repository contains programs created for the _**ALX Software Engineering Higher Level** Programing._ Now on Higher Level Programming, Your girl here is ready for collaborations. Hey you! Come let's do hard things. The following is a specific list of projects and what I have learnt so far:
 
