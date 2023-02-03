@@ -1,21 +1,22 @@
 
-# ALX SYSTEM ENGINEERING - DEVOPS
+# ALX HIGHER LEVEL PROGRAMMING
+<https://github.com/Karlie-crypto/alx-higher_level_programming/blob/master/72Us.gif />
 
-<img alt="coding" width="784" height="350" src="https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png" />
+This repository contains programs created for the _**ALX Software Engineering Higher Level** Programing._ Now on Higher Level Programming, Your girl here is ready for collaborations. Hey you! Come let's do hard things. The following is a specific list of projects and what I have learnt so far:
 
-This repository contains programs created for the _**ALX Software Engineering** Programs._ Your girl here is ready for collaborations, Currently sharpening my knowledge and skills of C and shell scripting. Hey you! Come let's do hard things. The following is a specific list of projects :
-
-- [0x00. Shell - Shell_Basics](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x00-shell_basics)
-- [0x01. Shell - Shell_Permissions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
-- [0x02. Shell - Shell_Redirections](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
-- [0x03. Shell - Shell_Variables_Expansions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
-- [0x04-loops_conditions_and_parsing](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
-- [command_line_for_the_win](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/command_line_for_the_win)
-- [0-iam_betty](https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/0-iam_betty)
-- [0x05-processes_and_signals](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
-- [0x06-regular_expressions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x06-regular_expressions)
-- [0x07-networking_basics](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x07-networking_basics)
-- [0x08-networking_basics_2](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)
+- [0x00-python-hello_world](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x00-python-hello_world)
+- [0x01-python-if_else_loops_functions](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions)
+- [0x02-python-import_modules](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x02-python-import_modules)
+- [0x03-python-data_structures](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x03-python-data_structures)
+- [0x04-python-more_data_structures](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x04-python-more_data_structures)
+- [0x05-python-exceptions](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x05-python-exceptions)
+- [0x06-python-classes](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x06-python-classes)
+- [0x07-python-test_driven_development](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x07-python-test_driven_development)
+- [0x08-python-more_classes](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x08-python-more_classes)
+- [0x09-python-everything_is_object](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x09-python-everything_is_object)
+- [0x0A-python-inheritance](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0A-python-inheritance)
+- [0x0B-python-input_output](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0B-python-input_output)
+- [0x0C-python-almost_a_circle](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)
 
 ### AUTHOR:
 <details>
