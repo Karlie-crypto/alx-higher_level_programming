@@ -17,7 +17,8 @@ This repository contains programs created for the _**ALX Software Engineering Hi
 - [0x0A-python-inheritance](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0A-python-inheritance)
 - [0x0B-python-input_output](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0B-python-input_output)
 - [0x0C-python-almost_a_circle](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)
-
+- [0x0D-SQL_introduction](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0D-SQL_introduction)
+- [0x0E-SQL_more_queries](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries)
 ### AUTHOR:
 <details>
     <summary>KARLIE MOYO</summary>
