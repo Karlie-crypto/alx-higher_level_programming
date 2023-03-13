@@ -1,9 +1,6 @@
 
 # 0x12. Javascript - Warm up
 
-## Description
-The aim of this project is to get started with Javascript, learn all the syntax and its different uses.
-
 ![](https://devs.lol/uploads/2022/06/meme-dev-humor-you-cant-learn-javascript-in-30-days-295.jpg)
 
 ## Table of contents
