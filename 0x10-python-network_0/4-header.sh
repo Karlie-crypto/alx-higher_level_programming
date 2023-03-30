@@ -1,4 +1,3 @@
 #!/bin/bash
-
-# Send a GET request to a given URL with a header variable.
-curl -sH "X-HolbertonSchool-User-Id: 98" "$1"
+# send a GET request to the URL using curl, and display the body of the response
+curl -sH "X-School-User-Id: 98" "$1"
