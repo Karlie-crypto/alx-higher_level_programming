@@ -1,2 +1,2 @@
   THE ZEN OF PYTHON
-[https://twitter.com/askubuntumemes/status/1325894613069160449/photo/1](https://twitter.com/askubuntumemes/status/1325894613069160449/photo/1)
+![image](https://user-images.githubusercontent.com/110098940/228910670-ffa97ec9-31ef-4775-ba9c-5f4fe0386302.png)
