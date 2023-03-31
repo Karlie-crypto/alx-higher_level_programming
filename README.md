@@ -19,6 +19,10 @@ This repository contains programs created for the _**ALX Software Engineering Hi
 - [0x0C-python-almost_a_circle](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)
 - [0x0D-SQL_introduction](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0D-SQL_introduction)
 - [0x0E-SQL_more_queries](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries)
+- [0x0F-python-object_relational_mapping](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x0F-python-object_relational_mapping)
+- [0x10-python-network_0](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x10-python-network_0)
+- [0x11-python-network_1](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x11-python-network_1)
+- [0x12-javascript-warm_up](https://github.com/Karlie-crypto/alx-higher_level_programming/tree/master/0x12-javascript-warm_up)
 ### AUTHOR:
 <details>
     <summary>KARLIE MOYO</summary>
