@@ -26,7 +26,7 @@ This repository contains programs created for the _**ALX Software Engineering Hi
 | 0x11  | [Python - Network #1](./0x11-python-network_1/)                                         |             |
 | 0x12  | [JavaScript - Warm_up](./0x12-javascript-warm_up/)                                      |             |
 | 0x13  | [JavaScript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures/) |             |
-
+| 0x15  | [avascript-web_jquery](./0x15-javascript-web_jquery/)                                   |
 
 ### AUTHOR:
 <details>
@@ -39,7 +39,7 @@ This repository contains programs created for the _**ALX Software Engineering Hi
             <a href="https://twitter.com/karlieemoyo">Twitter</a>
         </li>
         <li>
-            <a href="https://karlieemoyo@gmail.com">e-mail</a>
+            <a href="https://www.linkedin.com/in/karlie-moyo/">Linkedin</a>
         </li>
     </ul>
 </details>
